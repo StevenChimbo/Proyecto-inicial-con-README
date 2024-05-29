@@ -21,3 +21,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Este es un proyecto Java simple para demostrar el manejo de versiones con Git.
 ## Version 1.0.0
 - Versión inicial del proyecto.
+## Version X.X.X
+- [Descripcion de la version ]
